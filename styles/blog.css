@@ -1,0 +1,137 @@
+body {
+    background-color: orange;
+}
+
+
+
+header {
+    background: grey;
+    padding: 20px;
+}
+
+
+#center {
+    display: inline;
+    margin-left: 150px;
+    float: center;
+    color: white;
+    padding-right: 20px;
+}
+
+#right {
+     word-spacing: 100px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    padding: 10px;
+    color: orange;
+    float: right;
+    display: block;
+    padding-right: 100px;
+}
+
+#left {
+    text-decoration: none;
+    word-spacing: 100px;
+    letter-spacing: 3px;
+    float: left;
+   padding-left: 100px;
+   
+}
+
+#right a {
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    line-height: 2;
+}
+
+#left a {
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    line-height: 3;
+}
+
+#right a:hover {
+    color: orange;
+}
+
+#right #blog {
+    color: orange;
+}
+
+#left a:hover {
+    color: red;
+}
+
+
+
+.Title {
+    text-align: center;
+    background: white;
+    font-weight: 900;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+.webdev {
+    float: left;
+}
+
+.webdevtitle {
+    text-align: left;
+    background: red;
+    padding:inherit;
+    
+}
+
+.webdevcontent {
+    font-family: monospace;
+    text-align: left;
+    background: #dd7b7b        
+}
+
+hr {
+    display: block;
+    
+}
+
+
+
+
+/*
+
+.religiontitle {
+    text-align: center;
+    background-color: yellow;
+    font-weight: 900;
+}
+
+.religioncontent {
+    text-align: center;
+    background-color: #f0f070;
+    font-family: monospace;
+}
+
+*/
+
+#codepen {
+    width: 100px;
+    text-align: center;
+    margin-left: 300px;
+}
+
+#fcc {
+    width: 200px;
+}
+
+#github {
+    width: 200px;
+}
+
+#stack {
+    width:250px;
+}
+

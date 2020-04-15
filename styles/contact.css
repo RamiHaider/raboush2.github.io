@@ -1,0 +1,64 @@
+body {
+    background-color: greenyellow;
+}
+
+header {
+    background: grey;
+    padding: 20px;
+}
+
+
+#center {
+    display: inline;
+    margin-left: 150px;
+    float: center;
+    color: white;
+    padding-right: 20px;
+}
+
+#right {
+     word-spacing: 100px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    padding: 10px;
+    color: orange;
+    float: right;
+    display: block;
+    padding-right: 100px;
+}
+
+#left {
+    text-decoration: none;
+    word-spacing: 100px;
+    letter-spacing: 3px;
+    float: left;
+   padding-left: 100px;
+   
+}
+
+#right a {
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    line-height: 2;
+}
+
+#left a {
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    line-height: 3;
+}
+
+#left #contact {
+    color: red;
+}
+
+#right a:hover {
+    color: orange;
+}
+
+#left a:hover {
+    color: red;
+}
