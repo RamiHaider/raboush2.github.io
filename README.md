@@ -12,3 +12,9 @@ So, I structured everything as is traditional I believe in web-pages. This is co
 from JS - but I'm working on that ATM! Anywho, there is the sites pages, styles, and so forth. 
 
 I used brackets to code this and love it. I think I'll try what everyone else is using now a days, the textEditor thing?
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Regarding the code:
+- Clearly the front-page has some issues with the flex-box. It seems the flex-box has many nuances and I'm just beginning to figure this out.
+- Javascript would be an ideal feature in order to display automatically whether at each point in the website, that if you are in a certain part of the website like 'contact', then the contact button would be highlighted. However, I did that in a sort of cheating way by just making it automatically be colored in using CSS and HTML if you were on that part.
+
